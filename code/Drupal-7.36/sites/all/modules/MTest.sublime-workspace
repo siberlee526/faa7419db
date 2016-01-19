@@ -1,0 +1,294 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getDay  (function)"
+			],
+			[
+				"upp",
+				"toUpperCase  (function)"
+			],
+			[
+				"substr_",
+				"substr_replace  (function)"
+			],
+			[
+				"substr_co",
+				"substr_count  (function)"
+			],
+			[
+				"strtf",
+				"strtr  (function)"
+			],
+			[
+				"addc",
+				"addslashes  (function)"
+			],
+			[
+				"printf",
+				"print_r  (function)"
+			],
+			[
+				"in",
+				"strinput  (variable)"
+			],
+			[
+				"quoted",
+				"quoted_printable_encode  (function)"
+			],
+			[
+				"quoted_p",
+				"quoted_printable_decode  (function)"
+			],
+			[
+				"sou",
+				"sound2  (variable)"
+			],
+			[
+				"filemd",
+				"fileMd5Nmae  (variable)"
+			],
+			[
+				"file",
+				"filemd5  (variable)"
+			],
+			[
+				"print",
+				"print_r  (function)"
+			],
+			[
+				"html",
+				"htmlspecialchars  (function)"
+			],
+			[
+				"htmlspe",
+				"htmlspecialchars_decode  (function)"
+			],
+			[
+				"v",
+				"var_text  (variable)"
+			],
+			[
+				"conve",
+				"convert_uuencode  (function)"
+			],
+			[
+				"text",
+				"textOne  (variable)"
+			],
+			[
+				"tex",
+				"textTwo  (variable)"
+			],
+			[
+				"con",
+				"condition"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 338.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages→浏览程序包"
+			],
+			[
+				"package control:up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: a",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 154.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/CodeSourceLib/code/javascript/LearningNotes/lession_two.js",
+		"/F/WebKnowledgeLib/javascript/Works/Demoes_0/index.html",
+		"/F/WebKnowledgeLib/javascript/Works/Demoes_0/index.css",
+		"/F/WebKnowledgeLib/javascript/Works/Demoes_0/index.js",
+		"/G/CodeSourceLib/code/javascript/LearningNotes/lession_One.js",
+		"/F/Drupal7.26_learning/document/PHPLearning/LearningNotes/Lession_three_maths.php",
+		"/F/Drupal7.26_learning/document/PHPLearning/LearningNotes/Lession_one.php",
+		"/F/Drupal7.26_learning/document/PHPLearning/LearningNotes/Lession_two_string.php",
+		"/G/C++/code/javascript/LearningNotes/lession_One.js",
+		"/D/greatagent2-ga-Release/goagent-local/proxy.my.ini",
+		"/G/JavaScripKnowlegde/BasicSkills/masm.asm",
+		"/G/JavaScripKnowlegde/BasicSkills/Lession_One.js",
+		"/G/C++/DonateListAlgo/Src/main.cpp",
+		"/C/Users/siber/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/D/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+		"/G/C++/DonateListAlgo/Src/main.h",
+		"/D/Program Files (x86)/Sublime Text3/Data/Packages/User/SublimeClang.sublime-settings",
+		"/D/Program Files (x86)/Sublime Text3/Data/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/C/Users/siber/Desktop/show.h",
+		"/D/Program Files (x86)/Sublime Text3/Data/Packages/User/Side Bar.sublime-settings",
+		"/D/Program Files (x86)/Sublime Text3/Data/Packages/User/Emmet.sublime-settings",
+		"/D/Program Files (x86)/Sublime Text3/Data/Packages/User/Nodejs.sublime-settings",
+		"/D/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Program Files (x86)/Sublime Text3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/Program Files (x86)/Sublime Text3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/d/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/G/CodeSourceLib/code/PHPLib/PHPCode.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true
+}

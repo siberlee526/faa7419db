@@ -1,0 +1,82 @@
+#color_scheme_form #palette .form-item {
+	width: 25em;
+}
+
+#color_scheme_form #palette .form-item label {
+	width: 15em;
+}
+
+html.js #preview {
+	clear: both;
+	float: none !important;
+}
+
+#preview {
+	background-color: #fff;
+	font-family: Georgia, "Thimes New Roman", Times,serif;
+	font-size: 14px;
+	line-height: 1.5;
+	overflow: hidden;
+	word-wrap: break-word;
+	margin-bottom: 10px;
+}
+
+#preview-header {
+	font-family: "Helvetica Neue", Helvetica, Arial;
+	position: relative;
+}
+
+#preview-logo {
+	float: left;
+	padding: 15px 15px 15px 10px;
+}
+
+#preview-site-name {
+	color: #686868;
+	font-weight: normal;
+	font-size: 1.821em;
+	line-height: 1;
+	margin-bottom: 30px;
+	margin-left: 15px;
+	margin-right: 34px;
+}
+
+#preview-main-menu {
+	clear: both;
+	padding: 0 15px 3px;
+}
+
+#preview-main-menu-links a {
+	color: #d9d9d9;
+	padding: 0.6em 1em 0.4em;
+}
+
+#preview-main-links {
+	font-size: 0.929em;
+	margin: 0;
+	padding: 0;
+}
+
+#preview-main-menu-links a {
+	color: #333;
+	background:  #ccc;
+	background: rgba(255,255,255,0.7);
+	text-shadow: 0 1px #eee;
+	-khtml-border-radius-topleft: 8px;
+	-moz-border-radius-topleft: 8px;
+	-webkit-border-top-left-radius: 8px;
+	border-top-left-radius: 8px;
+	-khtml-border-radius-topright: 8px;
+	-moz-border-radius-topright: 8px;
+	-webkit-border-top-right-radius: 8px;
+	border-top-right-radius: 8px;
+}
+
+#preview-main-menu-links a: hover,
+#preview-main-menu-links a:focus {
+background: #fff;
+background: rgba(255,255,255,0.95);
+}
+
+
+
