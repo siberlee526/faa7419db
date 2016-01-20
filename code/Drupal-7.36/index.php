@@ -19,6 +19,6 @@ define('DRUPAL_ROOT', getcwd());//It is a difination
 require_once DRUPAL_ROOT . '/includes/bootstrap.inc';
 //Basical functions in bootstrap.inc file
 //Set the basic function
-drupal_bootstrap(DRUPAL_BOOTSTRAP_FULL);
+drupal_bootstrap(DRUPAL_BOOTSTRAP_FULL);//from bootstrap.inc
 //Menu is more important for dynamic content web
-menu_execute_active_handler();
+menu_execute_active_handler();//from menu.inc

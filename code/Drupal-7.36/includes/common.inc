@@ -5926,19 +5926,21 @@ function drupal_render_page($page) {
  * @return string
  *   The rendered HTML.
  */
+//theme.engine
 function drupal_render(&$elements) {
   // Early-return nothing if user does not have access.
   if (empty($elements) || (isset($elements['#access']) && !$elements['#access'])) {
     return '';
   }
-
+  //$elements is array of array,it's php special phase.
+	
   // Do not print elements twice.
   if (!empty($elements['#printed'])) {
     return '';
   }
 
   // Try to fetch the element's markup from cache and return.
-  if (isset($elements['#cache'])) {
+  if (isset($elements['#cache'])) {//isset,isset,isset
     $cached_output = drupal_render_cache_get($elements);
     if ($cached_output !== FALSE) {
       return $cached_output;
