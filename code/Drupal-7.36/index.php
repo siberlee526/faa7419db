@@ -22,3 +22,4 @@ require_once DRUPAL_ROOT . '/includes/bootstrap.inc';
 drupal_bootstrap(DRUPAL_BOOTSTRAP_FULL);//from bootstrap.inc
 //Menu is more important for dynamic content web
 menu_execute_active_handler();//from menu.inc
+//phpinfo();
