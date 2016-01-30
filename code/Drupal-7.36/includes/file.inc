@@ -2133,7 +2133,7 @@ function file_scan_directory($dir, $mask, $options = array(), $depth = 0) {
           $file->name = pathinfo($filename, PATHINFO_FILENAME);
           $key = $options['key'];
           $files[$file->$key] = $file;
-          if ($options['callback']) {
+          if ($options['callback']) { 
             $options['callback']($uri);
           }
         }
