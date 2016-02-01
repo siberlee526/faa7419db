@@ -26,8 +26,8 @@ public:
 	virtual int ExitInstance();
 
 // й╣ож
-	afx_msg void OnAppAbout();
-	DECLARE_MESSAGE_MAP()
+// 	afx_msg void OnAppAbout();
+// 	DECLARE_MESSAGE_MAP()
 };
 
 extern CCodeGraphApp theApp;
