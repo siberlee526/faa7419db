@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeGraph", "src\CodeGraph\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "acadloader", "src\acadloader\acadloader.vcxproj", "{4286E16A-4E99-41A2-93FC-3FF78C1C0A1D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "toolkits", "src\toolkits\toolkits.vcxproj", "{44F78F4B-FE02-4DE2-9AEB-D729CEE2E794}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{4286E16A-4E99-41A2-93FC-3FF78C1C0A1D}.Debug|Win32.Build.0 = Debug|Win32
 		{4286E16A-4E99-41A2-93FC-3FF78C1C0A1D}.Release|Win32.ActiveCfg = Release|Win32
 		{4286E16A-4E99-41A2-93FC-3FF78C1C0A1D}.Release|Win32.Build.0 = Release|Win32
+		{44F78F4B-FE02-4DE2-9AEB-D729CEE2E794}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44F78F4B-FE02-4DE2-9AEB-D729CEE2E794}.Debug|Win32.Build.0 = Debug|Win32
+		{44F78F4B-FE02-4DE2-9AEB-D729CEE2E794}.Release|Win32.ActiveCfg = Release|Win32
+		{44F78F4B-FE02-4DE2-9AEB-D729CEE2E794}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
