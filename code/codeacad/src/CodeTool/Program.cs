@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Autodesk.AutoCAD.Runtime;
+using Autodesk.AutoCAD.Interop;
+using Autodesk.AutoCAD.Interop.Common;
 
 namespace CodeTool
 {
@@ -11,9 +14,9 @@ namespace CodeTool
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run();
+            Autodesk.AutoCAD.Interop.AcadApplication AcadApp = new Autodesk.AutoCAD.Interop.AcadApplication();
+            AcadApp.Application.WindowState = Autodesk.AutoCAD.Interop.Common.AcWindowState.acMax;
+            AcadApp.Application.Visible = true;
         }
     }
 }
