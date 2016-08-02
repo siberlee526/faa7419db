@@ -30,6 +30,7 @@
     <PlatformToolset>v110</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
     <UseOfMfc>Dynamic</UseOfMfc>
+    <CLRSupport>true</CLRSupport>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -219,14 +220,6 @@
     <Image Include="res\CodeGraph.ico" />
     <Image Include="res\CodeGraphDoc.ico" />
     <Image Include="res\Toolbar.bmp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Reference Include="Autodesk.AutoCAD.Interop">
-      <HintPath>D:\acad\Autodesk_ObjectARX_2014_Win_64_and_32Bit\inc-x64\Autodesk.AutoCAD.Interop.dll</HintPath>
-    </Reference>
-    <Reference Include="Autodesk.AutoCAD.Interop.Common">
-      <HintPath>D:\acad\Autodesk_ObjectARX_2014_Win_64_and_32Bit\inc-x64\Autodesk.AutoCAD.Interop.Common.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
